@@ -1,14 +1,14 @@
-layout_spectrum: 0.41200966108590364
-typography_spectrum: 0.5119244104716927
+layout_spectrum: 0.22233390249311924
+typography_spectrum: 0.49956602044403553
 color:
-  brandStrength: 0.9789204739499837
-  lightness: 0.9305642885155976
-  saturation: 0.21655048336833715
-  rhythmicContrast: 0.4267047173343599
+  brandStrength: 0.08280423795804381
+  lightness: 0.9166845206636935
+  saturation: 0.6144720814190805
+  rhythmicContrast: 0.1721693640574813
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
+    - '#334D5C'
+    - '#45B29D'
+    - '#EFC94C'
+    - '#E27A3F'
+    - '#DF5A49'
 name: reckless pebbles
