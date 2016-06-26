@@ -1,8 +1,24 @@
-typography_spectrum: 0.8043793849647045
+author:
+  name: ''
+title: Everything you need to know
+name: reckless pebbles
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/feb93c91-e0d0-4585-80bf-dca38ad46f8b.png
 color:
-  brandStrength: 0.18307462404482067
-  lightness: 0.5829768774565309
   saturation: 0.8558672608342022
+  brandStrength: 0.1830746240448207
   rhythmicContrast: 0.414958966197446
   brandColors:
     - '#FFF8E3'
@@ -10,12 +26,8 @@ color:
     - '#33332D'
     - '#9FB4CC'
     - '#DB4105'
-layout_spectrum: 0.7060917511116713
-author:
-  name: ''
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/feb93c91-e0d0-4585-80bf-dca38ad46f8b.png
-name: reckless pebbles
+  lightness: 0.5829768774565309
+typography_spectrum: 0.8043793849647045
+layout_spectrum: 1
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/14483813-8905-479e-af38-3a56eaaab8ed.png
-title: Everything you need to know
