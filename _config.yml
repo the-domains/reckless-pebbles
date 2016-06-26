@@ -1,4 +1,3 @@
-layout_spectrum: 0.7060917511116713
 typography_spectrum: 0.8043793849647045
 color:
   brandStrength: 0.18307462404482067
@@ -11,5 +10,12 @@ color:
     - '#33332D'
     - '#9FB4CC'
     - '#DB4105'
+layout_spectrum: 0.7060917511116713
+author:
+  name: ''
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/feb93c91-e0d0-4585-80bf-dca38ad46f8b.png
 name: reckless pebbles
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/14483813-8905-479e-af38-3a56eaaab8ed.png
 title: Everything you need to know
