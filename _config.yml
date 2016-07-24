@@ -1,7 +1,28 @@
+typography_spectrum: 0.20093836775049567
+color:
+  saturation: 0.8558672608342022
+  brandStrength: 0.1830746240448207
+  rhythmicContrast: 0.414958966197446
+  brandColors:
+    - '#FFF8E3'
+    - '#CCCC9F'
+    - '#33332D'
+    - '#9FB4CC'
+    - '#DB4105'
+  lightness: 0.5829768774565309
+layout_spectrum: 0.4935809881426394
 author:
   name: ''
-title: Everything you need to know
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/feb93c91-e0d0-4585-80bf-dca38ad46f8b.png
 name: reckless pebbles
+navigation:
+  - id: 'https://www.medium.com/@avrahamraskin'
+    url: 'https://www.medium.com/@avrahamraskin'
+    name: Blog
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/14483813-8905-479e-af38-3a56eaaab8ed.png
 collections:
   - index:
       path: /
@@ -14,20 +35,4 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/feb93c91-e0d0-4585-80bf-dca38ad46f8b.png
-color:
-  saturation: 0.8558672608342022
-  brandStrength: 0.1830746240448207
-  rhythmicContrast: 0.414958966197446
-  brandColors:
-    - '#FFF8E3'
-    - '#CCCC9F'
-    - '#33332D'
-    - '#9FB4CC'
-    - '#DB4105'
-  lightness: 0.5829768774565309
-typography_spectrum: 0.20093836775049567
-layout_spectrum: 0.4935809881426394
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/14483813-8905-479e-af38-3a56eaaab8ed.png
+title: Everything you need to know
