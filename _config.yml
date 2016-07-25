@@ -21,6 +21,11 @@ navigation:
     url: 'https://www.medium.com/@avrahamraskin'
     name: Blog
     type: external
+  - id: 0d6e0ba0-16a8-4b40-986c-4cb40a361ab6
+    url: >-
+      2016-04-16-100-stunning-picture-quotes-that-will-supercharge-your-creat.html
+    name: Portfolio
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/14483813-8905-479e-af38-3a56eaaab8ed.png
 collections:
