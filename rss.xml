@@ -4,8 +4,15 @@
         <description><![CDATA[Everything you need to know]]></description>
         <link>https://thegrid.ai/reckless-pebbles/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 19 Jun 2016 13:55:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2016 06:06:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/reckless-pebbles/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rav Kav Concept Design]]></title>
+            <description><![CDATA[<article><h1>Rav Kav Concept Design</h1><p>These are really annoying problems and no different to what we have in Israel with the Rav Kav system. So as a side project I presented myself with a challenge.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/099e88402d41a01035420958f28baef8acb07009.png"></article>]]></description>
+            <link>https://thegrid.ai/reckless-pebbles/rav-kav-concept-design/index.html</link>
+            <guid isPermaLink="false">0d6e0ba0-16a8-4b40-986c-4cb40a361ab6</guid>
+            <pubDate>Mon, 25 Jul 2016 06:06:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbb73717-074c-4185-9473-5bf678010051.jpg">]]></description>
@@ -40,13 +47,6 @@
             <link>https://thegrid.ai/reckless-pebbles/second-skin/index.html</link>
             <guid isPermaLink="false">fb12a3de-4db6-4480-95e5-a744122a0f7b</guid>
             <pubDate>Tue, 31 May 2016 14:11:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rav Kav Concept Design]]></title>
-            <description><![CDATA[<article><h1>Rav Kav Concept Design</h1><p>These are really annoying problems and no different to what we have in Israel with the Rav Kav system. So as a side project I presented myself with a challenge.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/099e88402d41a01035420958f28baef8acb07009.png"></article>]]></description>
-            <link>https://designschool.canva.com/blog/picture-quotes/</link>
-            <guid isPermaLink="false">0d6e0ba0-16a8-4b40-986c-4cb40a361ab6</guid>
-            <pubDate>Tue, 31 May 2016 13:45:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
