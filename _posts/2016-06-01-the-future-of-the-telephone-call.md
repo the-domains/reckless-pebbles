@@ -54,8 +54,8 @@ app_links:
     namespace: google
     type: android
 title: The Future of the Telephone Call
-datePublished: '2016-07-28T17:33:12.980Z'
-dateModified: '2016-07-28T17:33:12.848Z'
+datePublished: '2016-07-28T17:33:13.089Z'
+dateModified: '2016-07-28T17:33:12.705Z'
 sourcePath: _posts/2016-06-01-the-future-of-the-telephone-call.md
 via: {}
 starred: false
