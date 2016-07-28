@@ -7,7 +7,8 @@ related: []
 publisher:
   url: 'https://medium.com'
   name: Medium
-  favicon: 'https://cdn-static-1.medium.com/_/fp/icons/favicon-medium.TAS6uQ-Y7kcKgi0xjcYHXw.ico'
+  favicon: >-
+    https://cdn-static-1.medium.com/_/fp/icons/favicon-medium.TAS6uQ-Y7kcKgi0xjcYHXw.ico
   domain: medium.com
 keywords:
   - voicemail
@@ -20,7 +21,11 @@ keywords:
   - answers
   - nowadays
   - hear
-description: 'What can the future be holding on the other line? Throughout the day our phones are constantly ringing, ringing with text messages, FaceTime, voice notes, Facebook messengers, and snapchats, ringing with anything but an incoming call.'
+description: >-
+  What can the future be holding on the other line? Throughout the day our
+  phones are constantly ringing, ringing with text messages, FaceTime, voice
+  notes, Facebook messengers, and snapchats, ringing with anything but an
+  incoming call.
 inLanguage: en
 app_links:
   - type: android
@@ -35,7 +40,8 @@ app_links:
   - url: 'medium://p/65e93457af15'
     type: android
     namespace: ai
-  - url: 'https://medium.com/@avrahamraskin/the-future-of-the-telephone-call-65e93457af15'
+  - url: >-
+      https://medium.com/@avrahamraskin/the-future-of-the-telephone-call-65e93457af15
     type: web
     namespace: ai
   - url: 'medium://p/65e93457af15'
@@ -48,10 +54,11 @@ app_links:
     namespace: google
     type: android
 title: The Future of the Telephone Call
-datePublished: '2016-06-01T12:57:44.193Z'
-dateModified: '2016-06-01T12:47:45.952Z'
-starred: false
+datePublished: '2016-07-28T17:32:53.547Z'
+dateModified: '2016-07-28T17:32:53.379Z'
 sourcePath: _posts/2016-06-01-the-future-of-the-telephone-call.md
+via: {}
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
