@@ -7,7 +7,8 @@ related: []
 publisher:
   url: 'https://medium.com'
   name: Medium
-  favicon: 'https://cdn-static-1.medium.com/_/fp/icons/favicon-medium.TAS6uQ-Y7kcKgi0xjcYHXw.ico'
+  favicon: >-
+    https://cdn-static-1.medium.com/_/fp/icons/favicon-medium.TAS6uQ-Y7kcKgi0xjcYHXw.ico
   domain: medium.com
 keywords:
   - clothes
@@ -20,7 +21,10 @@ keywords:
   - completely
   - superhydrophobic
   - basic
-description: 'This is something that I have been obsessed with for a while, but just recently this came up in a conversation with a friend and I wanted to explore it a little bit further.'
+description: >-
+  This is something that I have been obsessed with for a while, but just
+  recently this came up in a conversation with a friend and I wanted to explore
+  it a little bit further.
 inLanguage: en
 app_links:
   - type: android
@@ -48,10 +52,11 @@ app_links:
     namespace: google
     type: android
 title: Second Skin
-datePublished: '2016-05-31T14:11:46.004Z'
-dateModified: '2016-05-31T13:59:55.280Z'
-starred: false
+datePublished: '2016-07-28T17:33:13.185Z'
+dateModified: '2016-07-28T17:33:12.938Z'
 sourcePath: _posts/2016-05-31-second-skin.md
+via: {}
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
