@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-31T14:11:49.053Z'
+datePublished: '2016-07-28T17:28:36.187Z'
 keywords:
   - augmented
   - reality
@@ -16,7 +16,7 @@ author:
   - name: Avraham Raskin
     url: 'https://medium.com/@avrahamraskin'
     avatar: {}
-dateModified: '2016-05-31T14:09:08.615Z'
+dateModified: '2016-07-28T17:28:35.569Z'
 title: Augmented Sound
 app_links:
   - type: android
@@ -46,15 +46,18 @@ app_links:
 publisher:
   url: 'https://medium.com'
   name: Medium
-  favicon: 'https://cdn-static-1.medium.com/_/fp/icons/favicon-medium.TAS6uQ-Y7kcKgi0xjcYHXw.ico'
+  favicon: >-
+    https://cdn-static-1.medium.com/_/fp/icons/favicon-medium.TAS6uQ-Y7kcKgi0xjcYHXw.ico
   domain: medium.com
-description: 'Augmented Reality (AR), not to be confused with Virtual Reality or Glass, is the idea of taking this digital world and introducing it to us in our real world in context.'
+description: >-
+  Augmented Reality (AR), not to be confused with Virtual Reality or Glass, is
+  the idea of taking this digital world and introducing it to us in our real
+  world in context.
 inLanguage: en
-starred: false
 sourcePath: _posts/2016-05-31-augmented-sound.md
-inFeed: true
 hasPage: true
-inNav: false
+via: {}
+starred: false
 url: augmented-sound/index.html
 _context: 'http://schema.org'
 _type: Article
