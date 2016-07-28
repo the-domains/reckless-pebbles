@@ -20,11 +20,11 @@ navigation:
   - name: Blog
     url: 'https://www.medium.com/@avrahamraskin'
     type: external
-  - name: Portfolio
-    id: 0d6e0ba0-16a8-4b40-986c-4cb40a361ab6
-    type: content
   - name: Articles
     id: 0975a95b-2871-4f05-9f34-4a0c8c089c0f
+    type: content
+  - name: Portfolio
+    id: 0d6e0ba0-16a8-4b40-986c-4cb40a361ab6
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/14483813-8905-479e-af38-3a56eaaab8ed.png
