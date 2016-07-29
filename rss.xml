@@ -4,8 +4,15 @@
         <description><![CDATA[Mr. AR]]></description>
         <link>https://thegrid.ai/reckless-pebbles/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jul 2016 12:34:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2016 12:57:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/reckless-pebbles/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rav Kav Concept Design]]></title>
+            <description><![CDATA[<article><h1>Rav Kav Concept Design</h1><p>These are really annoying problems and no different to what we have in Israel with the Rav Kav system. So as a side project I presented myself with a challenge.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/099e88402d41a01035420958f28baef8acb07009.png"></article>]]></description>
+            <link>https://thegrid.ai/reckless-pebbles/rav-kav-concept-design/index.html</link>
+            <guid isPermaLink="false">a46b16fa-701b-40d3-ac7a-1406b0a8fa68</guid>
+            <pubDate>Fri, 29 Jul 2016 12:57:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/546b343d-5f1c-4918-9145-309b6acfb6a2.png">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/reckless-pebbles/8f204118-33fb-4264-bfc1-0143cc1cda56/index.html</link>
             <guid isPermaLink="false">8f204118-33fb-4264-bfc1-0143cc1cda56</guid>
             <pubDate>Thu, 28 Jul 2016 19:15:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Second Skin]]></title>
-            <description><![CDATA[<article><h1>Second Skin</h1><p>This is something that I have been obsessed with for a while, but just recently this came up in a conversation with a friend and I wanted to explore it a little bit further.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0df44a8a4997ebfb6ee6f6f1b2a10209ba8197a1.jpg"></article>]]></description>
-            <link>https://thegrid.ai/reckless-pebbles/second-skin/index.html</link>
-            <guid isPermaLink="false">fb12a3de-4db6-4480-95e5-a744122a0f7b</guid>
-            <pubDate>Tue, 31 May 2016 14:11:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
