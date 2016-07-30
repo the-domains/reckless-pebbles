@@ -20,6 +20,9 @@ navigation:
   - name: Building Design in Australia
     id: a1706ce1-aabd-4ee7-9fa3-4cf2e6e0e21a
     type: content
+  - name: Rav Kav Concept Design
+    id: a46b16fa-701b-40d3-ac7a-1406b0a8fa68
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/14483813-8905-479e-af38-3a56eaaab8ed.png
 collections:
