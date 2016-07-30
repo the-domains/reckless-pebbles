@@ -1,25 +1,26 @@
 ---
+datePublished: '2016-07-30T22:47:21.853Z'
+sourcePath: >-
+  _posts/2016-07-30-looking-down-at-your-smartphone-and-opening-up-a-weather-app.md
+isBasedOnUrl: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/780398f3-8262-476f-bda9-77cb1de4ee2f.png
+author: []
+via: {}
+dateModified: '2016-07-30T22:47:21.255Z'
+title: MetaSky | The Weather Naturally​
+publisher: {}
 description: >-
   Looking down at your smartphone and opening up a weather app is not the most
   pleasant or easiest way of finding out such important information like whether
   you should wear that coat or leave it at home! We found a better way!
-dateModified: '2016-07-30T22:38:23.271Z'
-datePublished: '2016-07-30T22:41:26.178Z'
-title: ''
-author: []
-publisher: {}
-via: {}
 starred: false
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/780398f3-8262-476f-bda9-77cb1de4ee2f.png
-sourcePath: >-
-  _posts/2016-07-30-looking-down-at-your-smartphone-and-opening-up-a-weather-app.md
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
+# MetaSky | The Weather Naturally​
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/780398f3-8262-476f-bda9-77cb1de4ee2f.png)
 
 Looking down at your smartphone and opening up a weather app is not the most pleasant or easiest way of finding out such important information like whether you should wear that coat or leave it at home! We found a better way!
