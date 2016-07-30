@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-29T12:57:08.261Z'
+datePublished: '2016-07-30T18:36:05.134Z'
 sourcePath: >-
   _posts/2016-04-16-100-stunning-picture-quotes-that-will-supercharge-your-creat.md
 inFeed: true
@@ -20,7 +20,7 @@ author:
   - name: Avraham Raskin
     url: 'http://avrahamrask.in'
 via: {}
-dateModified: '2016-07-29T11:01:33.452Z'
+dateModified: '2016-07-30T18:36:04.202Z'
 title: Rav Kav Concept Design
 app_links: []
 publisher: {}
