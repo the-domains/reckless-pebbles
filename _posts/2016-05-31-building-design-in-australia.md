@@ -8,8 +8,8 @@ description: >-
   this centre would need for its grown and expansion for the next 20 years. I'm
   very proud of the work we achieved, had a blast doing it and I look forward to
   seeing a building going up in Australia if our design gets chosen.
-dateModified: '2016-07-29T10:18:18.580Z'
-datePublished: '2016-07-29T10:18:19.401Z'
+dateModified: '2016-07-30T18:32:28.932Z'
+datePublished: '2016-07-30T18:32:29.649Z'
 title: Building Design in Australia
 author: []
 sourcePath: _posts/2016-05-31-building-design-in-australia.md
