@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-07-31T12:20:34.247Z'
+datePublished: '2016-07-31T12:37:26.924Z'
 sourcePath: _posts/2016-07-30-hakar-or-ar-music-player.md
 author: []
 via: {}
-dateModified: '2016-07-31T12:20:33.475Z'
+dateModified: '2016-07-31T12:37:26.337Z'
 title: HakAR | AR Music Player​
 publisher: {}
 description: >-
