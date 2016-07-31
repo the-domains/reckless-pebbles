@@ -23,6 +23,9 @@ navigation:
   - name: Rav Kav Concept Design
     id: a46b16fa-701b-40d3-ac7a-1406b0a8fa68
     type: content
+  - name: MetaKeyboard | The first AR Keyboard
+    id: aa73c69d-1b2f-40a8-a9d4-ed87943d8b3d
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/14483813-8905-479e-af38-3a56eaaab8ed.png
 collections:
