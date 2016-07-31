@@ -35,6 +35,9 @@ navigation:
   - name: HakAR | AR Music Player​
     id: a3232c9c-8213-4fa6-9fa0-e5c27a0da070
     type: content
+  - name: ReticleGesture | Control your AR world
+    id: 81de3bbb-54bd-463a-ba5d-3c42ddb0755d
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/14483813-8905-479e-af38-3a56eaaab8ed.png
 collections:
