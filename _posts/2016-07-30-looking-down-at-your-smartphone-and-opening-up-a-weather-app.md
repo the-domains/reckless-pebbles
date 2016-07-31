@@ -1,22 +1,19 @@
 ---
-datePublished: '2016-07-30T22:47:21.853Z'
+datePublished: '2016-07-31T12:20:00.146Z'
 sourcePath: >-
   _posts/2016-07-30-looking-down-at-your-smartphone-and-opening-up-a-weather-app.md
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/780398f3-8262-476f-bda9-77cb1de4ee2f.png
 author: []
 via: {}
-dateModified: '2016-07-30T22:47:21.255Z'
+dateModified: '2016-07-31T12:19:59.450Z'
 title: MetaSky | The Weather Naturally​
 publisher: {}
 description: >-
   Looking down at your smartphone and opening up a weather app is not the most
   pleasant or easiest way of finding out such important information like whether
   you should wear that coat or leave it at home! We found a better way!
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: metasky-or-the-weather-naturally/index.html
 _type: MediaObject
 
 ---
