@@ -29,6 +29,9 @@ navigation:
   - name: Follow the Leader | Social Robots
     id: 54f2ebac-40dc-45b9-a8bd-7cbe2d78c7cb
     type: content
+  - name: MetaSky | The Weather Naturally​
+    id: 5e78a7c7-6779-4436-a003-cbb32a4fd84f
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/14483813-8905-479e-af38-3a56eaaab8ed.png
 collections:
