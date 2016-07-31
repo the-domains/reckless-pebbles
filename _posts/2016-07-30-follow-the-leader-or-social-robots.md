@@ -1,11 +1,9 @@
 ---
-datePublished: '2016-07-30T19:04:52.441Z'
+datePublished: '2016-07-31T12:19:50.029Z'
 sourcePath: _posts/2016-07-30-follow-the-leader-or-social-robots.md
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f43d95f-e809-429e-a704-9ab622d449be.jpg
 author: []
 via: {}
-dateModified: '2016-07-30T19:04:51.713Z'
+dateModified: '2016-07-31T12:19:49.299Z'
 title: Follow the Leader | Social Robots
 publisher: {}
 description: >-
@@ -13,10 +11,9 @@ description: >-
   able to localise themselves and their team in the world around them. The
   robots' goal is to correctly choose a leader that optimise their ability to
   preform different tasks.
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: follow-the-leader-or-social-robots/index.html
 _type: MediaObject
 
 ---
