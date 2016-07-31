@@ -1,12 +1,10 @@
 ---
-datePublished: '2016-07-31T12:21:59.938Z'
+datePublished: '2016-07-31T12:22:17.118Z'
 sourcePath: >-
   _posts/2016-07-30-we-set-out-to-find-a-newer-more-natural-interaction-we-wer.md
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/76ca4aa8-72da-4155-be22-2cd0bbc5fd50.png
 author: []
 via: {}
-dateModified: '2016-07-31T12:21:59.338Z'
+dateModified: '2016-07-31T12:22:16.549Z'
 title: ReticleGesture | Control your AR world
 publisher: {}
 description: >-
@@ -15,10 +13,9 @@ description: >-
   your computer without the old 2D input systems, the keyboard and mouse. We
   also wanted to move away from having to constantly jerk your hands around in
   front of you and poke and prod in the air the whole time.
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: reticlegesture-or-control-your-ar-world/index.html
 _type: MediaObject
 
 ---
