@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-07-31T12:20:00.146Z'
+datePublished: '2016-07-31T12:37:18.950Z'
 sourcePath: >-
   _posts/2016-07-30-looking-down-at-your-smartphone-and-opening-up-a-weather-app.md
 author: []
 via: {}
-dateModified: '2016-07-31T12:19:59.450Z'
+dateModified: '2016-07-31T12:37:18.059Z'
 title: MetaSky | The Weather Naturally​
 publisher: {}
 description: >-
