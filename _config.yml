@@ -16,7 +16,10 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/feb93c91-e0d0-4585-80bf-dca38ad46f8b.png
 name: reckless pebbles
-navigation: []
+navigation:
+  - name: ReticleGesture | Control your AR world
+    id: 81de3bbb-54bd-463a-ba5d-3c42ddb0755d
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/14483813-8905-479e-af38-3a56eaaab8ed.png
 collections:
