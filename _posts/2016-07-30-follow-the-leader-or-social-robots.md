@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-07-31T12:19:50.029Z'
+datePublished: '2016-07-31T12:37:34.250Z'
 sourcePath: _posts/2016-07-30-follow-the-leader-or-social-robots.md
 author: []
 via: {}
-dateModified: '2016-07-31T12:19:49.299Z'
+dateModified: '2016-07-31T12:37:33.668Z'
 title: Follow the Leader | Social Robots
 publisher: {}
 description: >-
