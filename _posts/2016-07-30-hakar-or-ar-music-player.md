@@ -1,11 +1,9 @@
 ---
-datePublished: '2016-07-30T19:10:39.633Z'
+datePublished: '2016-07-31T12:20:34.247Z'
 sourcePath: _posts/2016-07-30-hakar-or-ar-music-player.md
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/40f3ed8c-8395-48d5-9a39-465c75c90152.jpg
 author: []
 via: {}
-dateModified: '2016-07-30T19:10:37.348Z'
+dateModified: '2016-07-31T12:20:33.475Z'
 title: HakAR | AR Music Player​
 publisher: {}
 description: >-
@@ -15,10 +13,9 @@ description: >-
   that lived in the 3D and controlled it using unique interactions. Having a
   virtual music box sitting on your desk playing songs with the sound coming
   from that box is just way cool!
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: hakar-or-ar-music-player/index.html
 _type: MediaObject
 
 ---
