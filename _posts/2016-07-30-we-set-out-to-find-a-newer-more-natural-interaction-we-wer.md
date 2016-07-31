@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-07-31T12:22:17.118Z'
+datePublished: '2016-07-31T12:31:02.560Z'
 sourcePath: >-
   _posts/2016-07-30-we-set-out-to-find-a-newer-more-natural-interaction-we-wer.md
 author: []
 via: {}
-dateModified: '2016-07-31T12:22:16.549Z'
+dateModified: '2016-07-31T12:31:01.971Z'
 title: ReticleGesture | Control your AR world
 publisher: {}
 description: >-
