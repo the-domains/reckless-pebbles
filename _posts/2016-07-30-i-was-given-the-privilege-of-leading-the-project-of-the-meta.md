@@ -1,12 +1,10 @@
 ---
-datePublished: '2016-07-30T22:47:52.036Z'
+datePublished: '2016-07-31T12:19:40.704Z'
 sourcePath: >-
   _posts/2016-07-30-i-was-given-the-privilege-of-leading-the-project-of-the-meta.md
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0762e409-6e9b-4dc9-a267-aac07e48ef02.jpg
 author: []
 via: {}
-dateModified: '2016-07-30T22:47:51.454Z'
+dateModified: '2016-07-31T12:19:39.693Z'
 title: MetaKeyboard | The first AR Keyboard
 publisher: {}
 description: >-
@@ -14,10 +12,9 @@ description: >-
   a virtual, full keyboard that is viewed through the MetaGlasses; the keyboard
   app gives the ability to type anywhere without the restriction of limited
   space or computer availability.
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: metakeyboard-or-the-first-ar-keyboard/index.html
 _type: MediaObject
 
 ---
