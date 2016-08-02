@@ -1,4 +1,4 @@
-typography_spectrum: 0.20093836775049567
+typography_spectrum: 0.33372526546008885
 color:
   saturation: 0.8558672608342022
   brandStrength: 0.1830746240448207
@@ -10,7 +10,7 @@ color:
     - '#9FB4CC'
     - '#DB4105'
   lightness: 0.5829768774565309
-layout_spectrum: 0.4935809881426394
+layout_spectrum: 0.4424983540084213
 author:
   name: ''
 logo: >-
