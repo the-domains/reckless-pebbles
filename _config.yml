@@ -1,7 +1,7 @@
 name: reckless pebbles
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/14483813-8905-479e-af38-3a56eaaab8ed.png
-layout_spectrum: 0.42654
+layout_spectrum: 0.64357
 typography_spectrum: 0.27864
 author:
   name: ''
@@ -62,7 +62,7 @@ color:
     - '#33332D'
     - '#9FB4CC'
     - '#DB4105'
-  brandStrength: 0.1830746240448207
+  brandStrength: 0.3125
   lightness: 0.5829768774565309
   saturation: 0.8558672608342022
   rhythmicContrast: 0.414958966197446
