@@ -1,4 +1,3 @@
-layout_spectrum: 0.5623886079993099
 typography_spectrum: 0.9416031632572412
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.5623886079993099
 analytics:
   google: null
   facebook: null
@@ -29,9 +29,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Let’s take a journey
-    id: 8f204118-33fb-4264-bfc1-0143cc1cda56
-    type: content
   - name: Rav Kav Concept Design
     id: a46b16fa-701b-40d3-ac7a-1406b0a8fa68
     type: content
