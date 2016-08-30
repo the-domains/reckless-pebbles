@@ -29,6 +29,9 @@ cta:
   bucket: null
   version: null
 navigation:
+  - name: Let’s take a journey
+    id: 8f204118-33fb-4264-bfc1-0143cc1cda56
+    type: content
   - name: Rav Kav Concept Design
     id: a46b16fa-701b-40d3-ac7a-1406b0a8fa68
     type: content
@@ -49,9 +52,6 @@ navigation:
     type: content
   - name: MetaSky | The Weather Naturally​
     id: 5e78a7c7-6779-4436-a003-cbb32a4fd84f
-    type: content
-  - name: Let’s take a journey
-    id: 8f204118-33fb-4264-bfc1-0143cc1cda56
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/14483813-8905-479e-af38-3a56eaaab8ed.png
