@@ -1,13 +1,37 @@
-name: reckless pebbles
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/14483813-8905-479e-af38-3a56eaaab8ed.png
-layout_spectrum: 0.64357
 typography_spectrum: 0.27864
+color:
+  brandColors:
+    - '#FFF8E3'
+    - '#CCCC9F'
+    - '#33332D'
+    - '#9FB4CC'
+    - '#DB4105'
+  brandStrength: 0.3125
+  lightness: 0.5829768774565309
+  saturation: 0.8558672608342022
+  rhythmicContrast: 0.414958966197446
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.64357
+analytics:
+  google: null
+  facebook: null
+  twitter: null
 author:
   name: ''
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/feb93c91-e0d0-4585-80bf-dca38ad46f8b.png
+name: reckless pebbles
+cta:
+  domain: null
+  bucket: null
+  version: null
 navigation:
+  - name: Rav Kav Concept Design
+    id: a46b16fa-701b-40d3-ac7a-1406b0a8fa68
+    type: content
   - name: ReticleGesture | Control your AR world
     id: 81de3bbb-54bd-463a-ba5d-3c42ddb0755d
     type: content
@@ -26,9 +50,8 @@ navigation:
   - name: Building Design in Australia
     id: a1706ce1-aabd-4ee7-9fa3-4cf2e6e0e21a
     type: content
-  - name: Rav Kav Concept Design
-    id: a46b16fa-701b-40d3-ac7a-1406b0a8fa68
-    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/14483813-8905-479e-af38-3a56eaaab8ed.png
 collections:
   - index:
       path: /
@@ -43,27 +66,4 @@ collections:
       number: 10
 title: Mr. AR
 description: Some projects I've been working on
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#FFF8E3'
-    - '#CCCC9F'
-    - '#33332D'
-    - '#9FB4CC'
-    - '#DB4105'
-  brandStrength: 0.3125
-  lightness: 0.5829768774565309
-  saturation: 0.8558672608342022
-  rhythmicContrast: 0.414958966197446
 purpose: []
