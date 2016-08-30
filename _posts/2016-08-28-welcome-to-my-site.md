@@ -1,15 +1,18 @@
 ---
-datePublished: '2016-08-28T17:49:03.896Z'
-inFeed: true
-author: []
-via: {}
-dateModified: '2016-08-28T17:47:11.134Z'
+id: fdfcec11-e5f7-43e6-a2f5-5a760bfb1b3b
+dateModified: '2016-08-28T19:28:18.093Z'
 title: Welcome to my Site
-publisher: {}
+datePublished: '2016-08-28T19:28:19.059Z'
+author: []
 description: a little bit about me
-starred: false
+publisher: {}
+via: {}
+starred: true
 sourcePath: _posts/2016-08-28-welcome-to-my-site.md
-_type: Blurb
+inFeed: true
+hasPage: false
+inNav: false
+_type: MediaObject
 
 ---
 # Welcome to my Site
