@@ -1,21 +1,18 @@
 ---
-datePublished: '2016-08-28T18:47:06.753Z'
+datePublished: '2016-08-28T18:53:32.042Z'
 sourcePath: _posts/2016-05-31-building-design-in-australia.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-28T18:47:06.014Z'
+dateModified: '2016-08-28T18:53:31.312Z'
 title: Building Design in Australia
 publisher: {}
 description: >-
-  I have a personal connection with this community centre and when I heard that
-  they are rebuilding from scratch I wanted to contribute in my own way. What
-  started with a small idea and a couple sketches turned into about half a year
-  of work in which myself together with two friends from Tel Aviv designed a
-  concept building and 3D rendering of a project that would house everything
-  this centre would need for its grown and expansion for the next 20 years. I'm
-  very proud of the work we achieved, had a blast doing it and I look forward to
-  seeing a building going up in Australia if our design gets chosen.
+  I've always been in love with architecture, although it's always come in
+  second place to technology, I still dabble a little bit in building and
+  interior design. I actually had the privilege of putting in some design work
+  three years ago when I was in Peru, and there in now a building going up that
+  has a little bit of my touch! 
 starred: false
 url: building-design-in-australia/index.html
 _type: Blurb
