@@ -47,6 +47,9 @@ navigation:
   - name: MetaSky | The Weather Naturally​
     id: 5e78a7c7-6779-4436-a003-cbb32a4fd84f
     type: content
+  - name: Some articles
+    url: 'https://medium.com/@avrahamraskin'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/14483813-8905-479e-af38-3a56eaaab8ed.png
 collections:
