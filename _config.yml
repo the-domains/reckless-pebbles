@@ -38,9 +38,6 @@ navigation:
   - name: MetaKeyboard | The first AR Keyboard
     id: aa73c69d-1b2f-40a8-a9d4-ed87943d8b3d
     type: content
-  - name: MetaSky | The Weather Naturally​
-    id: 5e78a7c7-6779-4436-a003-cbb32a4fd84f
-    type: content
   - name: Some articles
     url: 'https://medium.com/@avrahamraskin'
     type: external
