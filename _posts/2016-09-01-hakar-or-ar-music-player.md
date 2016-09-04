@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-09-01T11:42:55.511Z'
+datePublished: '2016-09-01T11:43:10.862Z'
 sourcePath: _posts/2016-09-01-hakar-or-ar-music-player.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-01T11:42:54.909Z'
+dateModified: '2016-09-01T11:43:10.106Z'
 title: Projects
 publisher: {}
 description: >-
@@ -14,8 +14,10 @@ description: >-
   that lived in the 3D and controlled it using unique interactions. Having a
   virtual music box sitting on your desk playing songs with the sound coming
   from that box is just way cool!
+hasPage: true
 starred: false
-_type: Blurb
+url: projects/index.html
+_type: Article
 
 ---
 # Projects
