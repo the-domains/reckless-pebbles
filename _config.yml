@@ -35,9 +35,6 @@ navigation:
   - name: Let’s take a journey
     id: 8f204118-33fb-4264-bfc1-0143cc1cda56
     type: content
-  - name: HakAR | AR Music Player​
-    id: a3232c9c-8213-4fa6-9fa0-e5c27a0da070
-    type: content
   - name: Building Design in Australia
     id: a1706ce1-aabd-4ee7-9fa3-4cf2e6e0e21a
     type: content
