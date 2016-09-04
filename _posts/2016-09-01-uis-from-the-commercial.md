@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-01T12:48:01.045Z'
+datePublished: '2016-09-01T12:54:34.855Z'
 sourcePath: _posts/2016-09-01-uis-from-the-commercial.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-01T12:47:59.490Z'
+dateModified: '2016-09-01T12:54:34.183Z'
 title: ''
 publisher: {}
 description: UIs from the Commercial
