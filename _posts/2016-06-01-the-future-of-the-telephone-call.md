@@ -1,70 +1,32 @@
 ---
+datePublished: '2016-09-01T13:41:41.618Z'
+isBasedOnUrl: >-
+  https://medium.com/@avrahamraskin/the-future-of-the-telephone-call-65e93457af15#.mufl7z969
 author:
   - name: Avraham Raskin
     url: 'https://medium.com/@avrahamraskin'
     avatar: {}
-related: []
+via: {}
+dateModified: '2016-09-01T13:41:40.995Z'
+title: The Future of the Telephone Call
+id: 42b7ebc5-6c91-4e5a-8f06-a9d283a0731d
 publisher:
   url: 'https://medium.com'
   name: Medium
   favicon: >-
     https://cdn-static-1.medium.com/_/fp/icons/favicon-medium.TAS6uQ-Y7kcKgi0xjcYHXw.ico
   domain: medium.com
-keywords:
-  - voicemail
-  - siri
-  - calling
-  - phone
-  - apps
-  - message
-  - david
-  - answers
-  - nowadays
-  - hear
 description: >-
   What can the future be holding on the other line? Throughout the day our
   phones are constantly ringing, ringing with text messages, FaceTime, voice
   notes, Facebook messengers, and snapchats, ringing with anything but an
   incoming call.
-inLanguage: en
-app_links:
-  - type: android
-    namespace: ai
-    app_name: Medium
-    app_store_id: '828256236'
-    package: com.medium.reader
-  - url: 'medium://p/65e93457af15'
-    type: ios
-    namespace: ai
-    app_name: Medium
-  - url: 'medium://p/65e93457af15'
-    type: android
-    namespace: ai
-  - url: >-
-      https://medium.com/@avrahamraskin/the-future-of-the-telephone-call-65e93457af15
-    type: web
-    namespace: ai
-  - url: 'medium://p/65e93457af15'
-    namespace: twitter
-    type: iphone
-    name: Medium
-    id: '828256236'
-  - path: https/medium.com/p/65e93457af15
-    package: com.medium.reader
-    namespace: google
-    type: android
-title: The Future of the Telephone Call
-datePublished: '2016-08-28T13:54:20.412Z'
-dateModified: '2016-07-28T17:47:58.582Z'
-sourcePath: _posts/2016-06-01-the-future-of-the-telephone-call.md
-via: {}
 starred: false
+sourcePath: _posts/2016-06-01-the-future-of-the-telephone-call.md
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
-url: the-future-of-the-telephone-call/index.html
-_type: Article
-_context: 'http://schema.org'
+_type: MediaObject
 
 ---
-<article style=""><h1>The Future of the Telephone Call</h1><p>What can the future be holding on the other line? Throughout the day our phones are constantly ringing, ringing with text messages, FaceTime, voice notes, Facebook messengers, and snapchats, ringing with anything but an incoming call.</p><img src="https://cdn-images-1.medium.com/max/1200/1*jyV7TsRtKO1ri5_vGMw-Sw.jpeg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e4dcb75678539cb1fc6ef106c2d5d164597130a4.jpg" /><h1>The Future of the Telephone Call</h1><p>What can the future be holding on the other line? Throughout the day our phones are constantly ringing, ringing with text messages, FaceTime, voice notes, Facebook messengers, and snapchats, ringing with anything but an incoming call.</p></article>
