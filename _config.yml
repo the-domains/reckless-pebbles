@@ -29,12 +29,12 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Some articles
-    url: 'https://medium.com/@avrahamraskin'
-    type: external
   - name: Projects
     id: fff899ea-54bb-4a68-910e-93a6036efbda
     type: content
+  - name: Some articles
+    url: 'https://medium.com/@avrahamraskin'
+    type: external
   - name: UIs Gallery
     id: 036767f6-3cb9-48b9-b45b-d8265e9da54e
     type: content
