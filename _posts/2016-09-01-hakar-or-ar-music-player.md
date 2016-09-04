@@ -1,10 +1,11 @@
 ---
-datePublished: '2016-09-01T11:41:31.973Z'
+datePublished: '2016-09-01T11:42:55.511Z'
+sourcePath: _posts/2016-09-01-hakar-or-ar-music-player.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-01T11:41:25.869Z'
-title: HakAR | AR Music Player​
+dateModified: '2016-09-01T11:42:54.909Z'
+title: Projects
 publisher: {}
 description: >-
   This was my latest project, created during the Israel Tech Challenge Hackathon
@@ -14,10 +15,10 @@ description: >-
   virtual music box sitting on your desk playing songs with the sound coming
   from that box is just way cool!
 starred: false
-sourcePath: _posts/2016-09-01-hakar-or-ar-music-player.md
 _type: Blurb
 
 ---
+# Projects
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e555630a-d47b-4314-81cb-e84483dff0db.jpg)
 
 # HakAR | AR Music Player​
