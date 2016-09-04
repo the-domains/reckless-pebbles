@@ -32,9 +32,6 @@ navigation:
   - name: Projects
     id: fff899ea-54bb-4a68-910e-93a6036efbda
     type: content
-  - name: Let’s take a journey
-    id: 8f204118-33fb-4264-bfc1-0143cc1cda56
-    type: content
   - name: Some articles
     url: 'https://medium.com/@avrahamraskin'
     type: external
