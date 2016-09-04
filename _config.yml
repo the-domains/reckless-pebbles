@@ -29,12 +29,12 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Projects
-    id: fff899ea-54bb-4a68-910e-93a6036efbda
-    type: content
   - name: Some articles
     url: 'https://medium.com/@avrahamraskin'
     type: external
+  - name: Projects
+    id: fff899ea-54bb-4a68-910e-93a6036efbda
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/14483813-8905-479e-af38-3a56eaaab8ed.png
 collections:
