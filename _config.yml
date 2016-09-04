@@ -35,9 +35,6 @@ navigation:
   - name: Let’s take a journey
     id: 8f204118-33fb-4264-bfc1-0143cc1cda56
     type: content
-  - name: Building Design in Australia
-    id: a1706ce1-aabd-4ee7-9fa3-4cf2e6e0e21a
-    type: content
   - name: ReticleGesture | Control your AR world
     id: 81de3bbb-54bd-463a-ba5d-3c42ddb0755d
     type: content
