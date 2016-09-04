@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-01T12:15:01.927Z'
+datePublished: '2016-09-01T12:16:46.300Z'
 sourcePath: _posts/2016-09-01-hakar-or-ar-music-player.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-01T12:15:00.798Z'
+dateModified: '2016-09-01T12:16:45.536Z'
 title: HakAR | AR Music Player​
 publisher: {}
 description: >-
@@ -53,6 +53,7 @@ Say you wanted to fly to New York tomorrow and needed to decide what to pack, th
 This was a project I started at the very beginning of my time with Meta. I coded up the virtual world using Unity and C\#. Then, together with the Lead Software Engineer we worked on bringing in real world data and made it work in real time. This was also a very interesting project as we discovered how the user reacts and controls information that is supposed to be at a further distance than they could normally reach with their hands. This is something that has never been explored with the 2D computer screen or the smarthphones in our pockets.
 
 # MetaKeyboard | The first AR Keyboard
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8046a37d-2095-467e-84da-5dbf89c825dd.jpg)
 
 I was given the privilege of leading the project of the MetaKeyboard. This is a virtual, full keyboard that is viewed through the MetaGlasses; the keyboard app gives the ability to type anywhere without the restriction of limited space or computer availability.
 
