@@ -1,14 +1,16 @@
 ---
-datePublished: '2016-09-01T12:43:29.224Z'
-inFeed: true
+datePublished: '2016-09-01T12:43:53.700Z'
+sourcePath: _posts/2016-09-01-uis-from-the-commercial.md
+inFeed: false
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-01T12:43:13.329Z'
+dateModified: '2016-09-01T12:43:53.041Z'
 title: ''
 publisher: {}
 description: UIs from the Commercial
 starred: false
-sourcePath: _posts/2016-09-01-uis-from-the-commercial.md
+url: uis-from-the-commercial/index.html
 _type: Blurb
 
 ---
