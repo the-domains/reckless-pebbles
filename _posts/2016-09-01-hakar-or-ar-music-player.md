@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-01T11:59:37.308Z'
+datePublished: '2016-09-01T12:00:06.468Z'
 sourcePath: _posts/2016-09-01-hakar-or-ar-music-player.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-01T11:59:36.552Z'
+dateModified: '2016-09-01T12:00:05.455Z'
 title: HakAR | AR Music Player​
 publisher: {}
 description: >-
@@ -35,6 +35,8 @@ What was most interesting about this project was that we got the chance to redef
 I've always been in love with architecture, although it's always come in second place to technology, I still dabble a little bit in building and interior design. I actually had the privilege of putting in some design work three years ago when I was in Peru, and there in now a building going up that has a little bit of my touch!
 
 I have a personal connection with this community centre and when I heard that they are rebuilding from scratch I wanted to contribute in my own way. What started with a small idea and a couple sketches turned into about half a year of work in which myself together with two friends from Tel Aviv designed a concept building and 3D rendering of a project that would house everything this centre would need for its grown and expansion for the next 20 years. I'm very proud of the work we achieved, had a blast doing it and I look forward to seeing a building going up in Australia if our design gets chosen.
+
+# ReticleGesture | Control your AR world
 
 Hand gestures are all the rage nowadays, but we set out to find a newer, more natural interaction, we were attempting to find a novel way of controlling your computer without the old 2D input systems, the keyboard and mouse. We also wanted to move away from having to constantly jerk your hands around in front of you and poke and prod in the air the whole time.
 
