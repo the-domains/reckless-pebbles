@@ -35,9 +35,6 @@ navigation:
   - name: Let’s take a journey
     id: 8f204118-33fb-4264-bfc1-0143cc1cda56
     type: content
-  - name: ReticleGesture | Control your AR world
-    id: 81de3bbb-54bd-463a-ba5d-3c42ddb0755d
-    type: content
   - name: MetaKeyboard | The first AR Keyboard
     id: aa73c69d-1b2f-40a8-a9d4-ed87943d8b3d
     type: content
