@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-01T12:09:32.991Z'
+datePublished: '2016-09-01T12:10:35.482Z'
 sourcePath: _posts/2016-09-01-hakar-or-ar-music-player.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-01T12:09:31.363Z'
+dateModified: '2016-09-01T12:10:34.542Z'
 title: HakAR | AR Music Player​
 publisher: {}
 description: >-
@@ -42,3 +42,9 @@ I have a personal connection with this community centre and when I heard that th
 Hand gestures are all the rage nowadays, but we set out to find a newer, more natural interaction, we were attempting to find a novel way of controlling your computer without the old 2D input systems, the keyboard and mouse. We also wanted to move away from having to constantly jerk your hands around in front of you and poke and prod in the air the whole time.
 
 With this monumental task ahead of us, I went ahead and prototyped a new system that fused together your eye positions and your hand data to become more aware of what the user was actually trying to achieve. I coded this up in Unity3D using just the RGB-D data as we have no eye tracking on our glasses. I then worked closely together with the software team to reconsider how to approach our apps using this new approach. We worked together with a big car manufacturer, and created some designs that are awesome and feel really natural.
+
+Looking down at your smartphone and opening up a weather app is not the most pleasant or easiest way of finding out such important information like whether you should wear that coat or leave it at home! We found a better way!
+
+Say you wanted to fly to New York tomorrow and needed to decide what to pack, the entire sky, as you looked up, would morph into what millions of New Yorkers are seeing right at this very moment. Even simulating the snow engulfing their beautiful city!
+
+This was a project I started at the very beginning of my time with Meta. I coded up the virtual world using Unity and C\#. Then, together with the Lead Software Engineer we worked on bringing in real world data and made it work in real time. This was also a very interesting project as we discovered how the user reacts and controls information that is supposed to be at a further distance than they could normally reach with their hands. This is something that has never been explored with the 2D computer screen or the smarthphones in our pockets.
