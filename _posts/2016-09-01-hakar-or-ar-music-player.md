@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-01T12:10:35.482Z'
+datePublished: '2016-09-01T12:11:38.021Z'
 sourcePath: _posts/2016-09-01-hakar-or-ar-music-player.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-01T12:10:34.542Z'
+dateModified: '2016-09-01T12:11:37.209Z'
 title: HakAR | AR Music Player​
 publisher: {}
 description: >-
@@ -42,6 +42,9 @@ I have a personal connection with this community centre and when I heard that th
 Hand gestures are all the rage nowadays, but we set out to find a newer, more natural interaction, we were attempting to find a novel way of controlling your computer without the old 2D input systems, the keyboard and mouse. We also wanted to move away from having to constantly jerk your hands around in front of you and poke and prod in the air the whole time.
 
 With this monumental task ahead of us, I went ahead and prototyped a new system that fused together your eye positions and your hand data to become more aware of what the user was actually trying to achieve. I coded this up in Unity3D using just the RGB-D data as we have no eye tracking on our glasses. I then worked closely together with the software team to reconsider how to approach our apps using this new approach. We worked together with a big car manufacturer, and created some designs that are awesome and feel really natural.
+
+# MetaSky | The Weather Naturally​
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3abb9258-6f3d-444d-b72c-4de85ab40d22.png)
 
 Looking down at your smartphone and opening up a weather app is not the most pleasant or easiest way of finding out such important information like whether you should wear that coat or leave it at home! We found a better way!
 
