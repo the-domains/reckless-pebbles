@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-01T13:39:50.240Z'
+datePublished: '2016-09-01T13:40:27.216Z'
 sourcePath: _posts/2016-09-01-hakar-or-ar-music-player.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-01T13:39:49.284Z'
+dateModified: '2016-09-01T13:40:26.162Z'
 title: Projects
 publisher: {}
 description: >-
