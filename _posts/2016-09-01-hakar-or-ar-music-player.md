@@ -1,11 +1,12 @@
 ---
-datePublished: '2016-09-01T11:43:10.862Z'
+datePublished: '2016-09-01T11:53:32.091Z'
 sourcePath: _posts/2016-09-01-hakar-or-ar-music-player.md
 inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-01T11:43:10.106Z'
-title: Projects
+dateModified: '2016-09-01T11:53:31.394Z'
+title: HakAR | AR Music Player​
 publisher: {}
 description: >-
   This was my latest project, created during the Israel Tech Challenge Hackathon
@@ -14,23 +15,22 @@ description: >-
   that lived in the 3D and controlled it using unique interactions. Having a
   virtual music box sitting on your desk playing songs with the sound coming
   from that box is just way cool!
-hasPage: true
 starred: false
 url: projects/index.html
 _type: Article
 
 ---
-# Projects
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e555630a-d47b-4314-81cb-e84483dff0db.jpg)
+## Projects
 
 # HakAR | AR Music Player​
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e555630a-d47b-4314-81cb-e84483dff0db.jpg)
 
 This was my latest project, created during the Israel Tech Challenge Hackathon @ Google Campus in Tel Aviv. Together with my team, Noah Santacruz, Joe Shayani and Meghan Lahmi, we created an Augmented Reality (AR) music player that lived in the 3D and controlled it using unique interactions. Having a virtual music box sitting on your desk playing songs with the sound coming from that box is just way cool!
 
 What was most interesting about this project was that we got the chance to redefine an app that is widely used and well known, to transform from the 2D world it normally lived and move to the 3D world, where we think it just naturally integrates. We designed a novel mode based system and had the transition work based on how much interaction you wanted with your music at any given time.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1bc1ef4-8d8b-4f3d-98de-ad6ee37342bd.png)
 
 # Building Design in Australia
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1bc1ef4-8d8b-4f3d-98de-ad6ee37342bd.png)
 
 I've always been in love with architecture, although it's always come in second place to technology, I still dabble a little bit in building and interior design. I actually had the privilege of putting in some design work three years ago when I was in Peru, and there in now a building going up that has a little bit of my touch!
 
