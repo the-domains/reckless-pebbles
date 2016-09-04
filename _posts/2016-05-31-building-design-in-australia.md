@@ -1,11 +1,10 @@
 ---
-datePublished: '2016-08-28T18:54:08.281Z'
-sourcePath: _posts/2016-05-31-building-design-in-australia.md
-hasPage: true
+datePublished: '2016-09-01T11:37:30.571Z'
 author: []
 via: {}
-dateModified: '2016-08-28T18:54:07.596Z'
+dateModified: '2016-09-01T11:37:29.975Z'
 title: Building Design in Australia
+id: a1706ce1-aabd-4ee7-9fa3-4cf2e6e0e21a
 publisher: {}
 description: >-
   I've always been in love with architecture, although it's always come in
@@ -14,8 +13,11 @@ description: >-
   three years ago when I was in Peru, and there in now a building going up that
   has a little bit of my touch!
 starred: false
-url: building-design-in-australia/index.html
-_type: Blurb
+sourcePath: _posts/2016-05-31-building-design-in-australia.md
+inFeed: true
+hasPage: false
+inNav: false
+_type: MediaObject
 
 ---
 # Building Design in Australia
